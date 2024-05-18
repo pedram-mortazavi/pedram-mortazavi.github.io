@@ -13,6 +13,11 @@
 - title: "Projects"
   url: "/projects/"
   side: left
+
+- title: "Database"
+  url: "/database/"
+  side: right
+
   # dropdown:
   #   - title: "Grid & Colors"
   #     url: "/design/grid/"

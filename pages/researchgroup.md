@@ -12,8 +12,8 @@ header: no
 
 ## Current Students 
 - ### Graduate Students
-  - **Lindong Liu** (2024. 09-) - Ph.D. Student
-    - Causal generative models, Time series analysis
+  - **Sina Kavei** (2024. 09-) - Ph.D. Student
+    - Seismic Performnance of Steel Plate Shear Walls
   - **Mithell Kosieradzki** (2024. 05-) - Master student in Data Science (Capstone project)
     - Probabilistic trajectory prediction
   - **Sicong Jiang** - Ph.D. Student at McGill University, co-supervised with Professor Lijun Sun

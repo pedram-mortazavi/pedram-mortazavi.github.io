@@ -4,7 +4,7 @@ title               : ""
 meta_title          : ""
 subheadline         : ""
 teaser              : ""
-permalink           : "/team/"
+permalink           : "/researchgroup/"
 header: no
 ---
 

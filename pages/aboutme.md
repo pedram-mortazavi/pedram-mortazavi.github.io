@@ -4,7 +4,7 @@ title               : ""
 meta_title          : ""
 subheadline         : ""
 teaser              : ""
-permalink           : "/drseongjinchoi/"
+permalink           : "/drpedrammortazavi/"
 header: no
 ---
 
@@ -14,7 +14,7 @@ header: no
         <img src="{{ site.url }}/images/profile_sjchoi.jpg" alt="Seongjin Choi" style="width: 280px; height: 420px;">
     </div>
     <div class="small-8 columns">
-        <h3>Dr. Seongjin Choi</h3>
+        <h3>Dr. Pedram Mortazavi</h3>
         <p style="margin-bottom: 2px;"><strong>Department:</strong> Civil, Environmental, and Geo- Engineering</p>
         <p style="margin-bottom: 2px;"><strong>Institution:</strong> University of Minnesota, Twin Cities --- CivE 162, 500 Pillsbury Dr. SE, Minneapolis, MN 55455, USA</p>
         <p style="margin-bottom: 2px;"><strong>Position:</strong> Assistant Professor</p>

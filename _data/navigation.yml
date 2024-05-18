@@ -6,12 +6,12 @@
   url: "/drpedrammortazavi/"
   side: left
 
-- title: Team
-  url: "/team/"
+- title: Research Group
+  url: "/researchgroup/"
   side: left
 
-- title: "Research Projects"
-  url: "/research/"
+- title: "Projects"
+  url: "/projects/"
   side: left
   # dropdown:
   #   - title: "Grid & Colors"

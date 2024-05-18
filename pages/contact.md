@@ -8,12 +8,12 @@ permalink           : "/contact/"
 header: no
 ---
 
-Room 162, Civil Engineering Building<br>
+Room 236, Civil Engineering Building<br>
 500 Pillsbury Dr. SE<br>
 Minneapolis, MN 55455
 
 Meetings are by appointment only.<br>
-Please send me an email to schedule a meeting at <a href="mailto:chois@umn.edu">chois[at]umn.edu</a>.
+Please send me an email to schedule a meeting at <a href="mailto:pmortaza@umn.edu">pmortaza[at]umn.edu</a>.
 
 Please consider following calendar when making appointments with me.
 

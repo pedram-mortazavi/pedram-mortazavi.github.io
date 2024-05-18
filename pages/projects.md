@@ -1,10 +1,10 @@
 ---
 layout: page-fullwidth
-title: "Research Projects"
+title: "Projects"
 meta_title: ""
 subheadline: ""
 teaser: ""
-permalink: "/research/"
+permalink: "/projects/"
 header: no
 ---
 

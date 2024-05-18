@@ -11,7 +11,7 @@ header: no
 <div class="row">
     <div class="small-4 columns">
         <h3></h3>
-        <img src="{{ site.url }}/images/_K8A1834A_Pedram Mortazavi_Cropped2.JPG" alt="Pedram Mortazavi" style="width: 280px; height: 420px;">
+        <img src="{{ site.url }}/images/pedram.JPG" alt="Pedram Mortazavi" style="width: 280px; height: 420px;">
     </div>
     <div class="small-8 columns">
         <h3>Dr. Pedram Mortazavi</h3>

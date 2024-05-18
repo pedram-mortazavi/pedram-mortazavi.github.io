@@ -16,9 +16,9 @@ header: no
     <div class="small-8 columns">
         <h3>Dr. Pedram Mortazavi</h3>
         <p style="margin-bottom: 2px;"><strong>Department:</strong> Civil, Environmental, and Geo- Engineering</p>
-        <p style="margin-bottom: 2px;"><strong>Institution:</strong> University of Minnesota, Twin Cities --- CivE 162, 500 Pillsbury Dr. SE, Minneapolis, MN 55455, USA</p>
+        <p style="margin-bottom: 2px;"><strong>Institution:</strong> University of Minnesota, Twin Cities --- CivE 236, 500 Pillsbury Dr. SE, Minneapolis, MN 55455, USA</p>
         <p style="margin-bottom: 2px;"><strong>Position:</strong> Assistant Professor</p>
-        <p style="margin-bottom: 2px;"><strong>E-mail:</strong> <a href="mailto:chois@umn.edu">chois[at]umn.edu</a></p>
+        <p style="margin-bottom: 2px;"><strong>E-mail:</strong> <a href="mailto:pmortaza@umn.edu">pmortaza[at]umn.edu</a></p>
         <p style="margin-bottom: 2px;"><strong> Affiliated faculty at 
             <a href="https://www.cts.umn.edu/research-scholars/seongjin-choi">Center for Transportation Studies</a>, 
             <a href="https://cse.umn.edu/mnri/seongjin-choi">Minnesota Robotics Institute</a>, 

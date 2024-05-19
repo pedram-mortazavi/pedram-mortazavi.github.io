@@ -32,15 +32,32 @@ header: no
         </ul>
         <h4>Professional Experience:</h4>
         <ul>
-            <li><strong>2024.01 - Present:</strong> Assistant Professor at UMN</li>
-            <li><strong>2022.01 - 2023.12:</strong> Postdoctoral Researcher at McGill University</li>
-            <li><strong>2021.09 - 2021.11:</strong> Postdoctoral Researcher at KAIST</li>
+            <li><strong>2024 - Present:</strong> Assistant Professor at UMN</li>
+            <li><strong>2023 - 2024:</strong> Structural Engineer, DIALOG, Toronto, Canada</li>
+            <li><strong>2022 - 2023:</strong> Seismic Design Specialist (Mitacs Fellow), Cast Connex Corporation, Toronto, Canada</li>
+            <li><strong>2019 - 2024:</strong> Sessional Lecturer, Department of Civil and Mineral Engineering, University of Toronto, Canada</li>
+            <li><strong>2014 - 2016:</strong> Structural Engineer, J. L. Richards and Associates Ltd., Ottawa, Canada</li>
+
         </ul>
+
+        <h4>Honours and Awards:</h4>
+        <ul >
+            <li><strong>2023.06 - Present:</strong> Associate Editor of The Journal of the Korean Society of Transportation (JKST)</li>
+            <li><strong>2023.07 - 2024.02:</strong> Guest Editor of the special issue titled "Advanced Data Intelligence Theory and Practice in Transport 2023" in Journal of Advanced Transportation </li>
+        </ul>
+
+        <h4>Affiliation with Scientific and Professional Societies:</h4>
+        <ul >
+            <li><strong>2023.06 - Present:</strong> Associate Editor of The Journal of the Korean Society of Transportation (JKST)</li>
+            <li><strong>2023.07 - 2024.02:</strong> Guest Editor of the special issue titled "Advanced Data Intelligence Theory and Practice in Transport 2023" in Journal of Advanced Transportation </li>
+        </ul>
+
         <h4>Academic Service:</h4>
         <ul >
             <li><strong>2023.06 - Present:</strong> Associate Editor of The Journal of the Korean Society of Transportation (JKST)</li>
             <li><strong>2023.07 - 2024.02:</strong> Guest Editor of the special issue titled "Advanced Data Intelligence Theory and Practice in Transport 2023" in Journal of Advanced Transportation </li>
         </ul>
+
     </div>
 </div>
 

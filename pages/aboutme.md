@@ -20,17 +20,17 @@ header: no
         <p style="margin-bottom: 2px;"><strong>Position:</strong> Assistant Professor</p>
         <p style="margin-bottom: 2px;"><strong>E-mail:</strong> <a href="mailto:pmortaza@umn.edu">pmortaza[at]umn.edu</a></p>
         <p style="margin-bottom: 2px;"><strong> Affiliated faculty at 
-            <a href="https://www.cts.umn.edu/research-scholars/seongjin-choi">Center for Transportation Studies</a>, 
-            <a href="https://cse.umn.edu/mnri/seongjin-choi">Minnesota Robotics Institute</a>, 
-            <a href="https://cse.umn.edu/dsi/seongjin-choi">Data Science Initiative</a>
+            <a href="https://www.cts.umn.edu/research-scholars/pedram-mortazavi">Center for Transportation Studies</a>, 
+            <a href="https://mastlab.umn.edu/">Multi-Axial Subassemblage Testing (MAST) Laboratory</a>, 
+            <a href="https://cse.umn.edu/cege/research-facilities-civil-engineering-building">Galambos Structural Engineering Laboratory</a>
         </strong></p>
         <h4>Education:</h4>
         <ul>
-            <li><strong>2021 Ph.D.,</strong> Korea Advanced Institute of Science and Technology</li>
-            <li><strong>2017 M.S.,</strong> Korea Advanced Institute of Science and Technology</li>
-            <li><strong>2015 B.S.,</strong> Korea Advanced Institute of Science and Technology</li>
+            <li><strong>2023 Ph.D.,</strong> University of Toronto, Toronto, Canada</li>
+            <li><strong>2014 M.S.,</strong> Carleton University, Ottawa, Canada</li>
+            <li><strong>2012 B.S.,</strong> University of Science and Culture. Tehran, Iran</li>
         </ul>
-        <h4>Professional Career:</h4>
+        <h4>Professional Experience:</h4>
         <ul>
             <li><strong>2024.01 - Present:</strong> Assistant Professor at UMN</li>
             <li><strong>2022.01 - 2023.12:</strong> Postdoctoral Researcher at McGill University</li>

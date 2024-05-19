@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: pexels-photo-6127879.jpeg
+  image_fullwidth: NorthropUofM640.png
 
 
 # widget1:

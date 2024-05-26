@@ -26,9 +26,9 @@ header: no
         </strong></p>
         <h4>Education:</h4>
         <ul>
-            <li><strong>2023 Ph.D.,</strong> University of Toronto, Toronto, Canada</li>
-            <li><strong>2014 M.S.,</strong> Carleton University, Ottawa, Canada</li>
-            <li><strong>2012 B.S.,</strong> University of Science and Culture. Tehran, Iran</li>
+            <li><strong>2023: Ph.D.,</strong> University of Toronto, Toronto, Canada</li>
+            <li><strong>2014: M.S.,</strong> Carleton University, Ottawa, Canada</li>
+            <li><strong>2012: B.S.,</strong> University of Science and Culture. Tehran, Iran</li>
         </ul>
         <h4>Professional Experience:</h4>
         <ul>
@@ -40,7 +40,7 @@ header: no
 
         </ul>
 
-        <h4>Honours, Awards, and Fellowships:</h4>
+        <h3>Honours, Awards, and Fellowships:</h3>
         <ul >
             <li><strong>2024:</strong> ASCE SEI Young Professional Scholarship, University of Minnesota </li>
             <li><strong>2024 - Present:</strong> Center of Transportation Studies Scholarship, University of Minnesota </li>

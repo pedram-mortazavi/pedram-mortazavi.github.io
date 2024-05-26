@@ -40,7 +40,8 @@ header: no
 
         </ul>
 
-        <h3>Honours, Awards, and Fellowships:</h3>
+        <h4>Honours, Awards, and Fellowships:</h4>
+        <h5>University of Minnesota</h5>
         <ul >
             <li><strong>2024:</strong> ASCE SEI Young Professional Scholarship, University of Minnesota </li>
             <li><strong>2024 - Present:</strong> Center of Transportation Studies Scholarship, University of Minnesota </li>

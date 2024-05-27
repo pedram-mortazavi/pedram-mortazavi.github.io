@@ -43,9 +43,20 @@ header: no
         <h4>Honours, Awards, and Fellowships:</h4>
     
         <ul >
-            <h5>University of Minnesota</h5>
-            <li><strong>2024:</strong> ASCE SEI Young Professional Scholarship, University of Minnesota </li>
-            <li><strong>2024 - Present:</strong> Center of Transportation Studies Scholarship, University of Minnesota </li>
+            <li><strong>2024:</strong> ASCE SEI Young Professional Scholarship, ASCE SEI (University of Minnesota) </li>
+            <li><strong>2024 - Present:</strong> CTS Scholar, Center for Transportation Studies (University of Minnesota) </li>
+            <li><strong>2023 - 2024:</strong> Nominated for the Distinguished Dissertation Award, Department of Civil and Mineral Engineering (University of Toronto) </li>
+            <li><strong>2022 - 2023:</strong> Doctoral Completion Award, Department of Civil and Mineral Engineering (University of Toronto) </li>
+            <li><strong>2021 - 2022:</strong> Mitacs Accelerate Fellowship, Mitacs (University of Toronto) </li>
+            <li><strong>2021 - 2022:</strong> Nominated for the CI Teaching Excellence Award, Department of Civil and Mineral Engineering (University of Toronto) </li>
+            <li><strong>2020 - 2021:</strong> Ontario Graduate Scholarship, Province of Ontario (University of Toronto) </li>
+            <li><strong>2020 - 2021:</strong> Winner of the Novelty Category, MECHS 3-Minute Thesis Video Competitions, DesignSafe (University of Toronto) </li>
+            <li><strong>2019 - 2020:</strong> CSCE Donald Jamieson Fellowship, Canadian Society for Civil Engineering (University of Toronto) </li>
+            <li><strong>2018 - 2019:</strong> CISC G. J. Jackson Fellowship, Canadian Institute of Steel Construction (University of Toronto) </li>
+            <li><strong>2018 - 2019:</strong> University-Wide TATP TA Teaching Excellence Award, Center for Teaching Support and Innovation (University of Toronto) </li>
+            <li><strong>2017 - 2018:</strong> CISC John L. Kellerman Fellowship, Canadian Institute of Steel Construction (University of Toronto) </li>
+            <li><strong>2017 - 2018:</strong> NSERC Alexander Graham Bell (PGS-D) Scholarship, Natural Sciences and Engineering Research Council of Canada (University of Toronto) </li>
+            <li><strong>2016 - 2017:</strong> Ontario Graduate Scholarship, Province of Ontario (University of Toronto) </li>
         </ul>
 
         <h4>Affiliation with Scientific and Professional Societies:</h4>

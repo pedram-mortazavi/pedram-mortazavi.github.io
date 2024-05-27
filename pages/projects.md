@@ -15,7 +15,7 @@ header: no
     <h4>Probabilistic Approach for better training spatiotemporal data and multivariate time-series data.</h4>
     <p>
         In this project, we focus on developing new methods for better training spatiotemporal data and multivariate time-series data by using a probabilistic approach. Especially, we are tackling conventional MSE/MAE-based training methods which are not suitable for spatiotemporal data and multivariate time-series data where we can find strong spatial (variable-wise) and temporal correlation.
-    </p>
+    </p> -->
     <!-- [Read More](/research/project1/) -->
     <details open>
         <summary><b>Related works</b></summary>
@@ -35,7 +35,7 @@ header: no
     <h4>Urban Mobility Data Analytics with AI and Machine Learning</h4>
     <p>
 The availability of extensive urban mobility data collected from diverse mobility sensors, such as GPS, WiFi, and smart cards, presents remarkable prospects for comprehending and enhancing urban mobility. This project develops artificial intelligence and machine learning models capable of complex spatiotemporal mobility patterns from large-scale urban mobility data. These models aim to analyze, forecast, and simulate the movement of individuals and vehicles, enabling more intelligent traffic management and improved mobility services. These models can be employed in diverse applications, including predicting traffic flow across an entire city, anticipating turning movements at intersections, and offering personalized route recommendations.
-    </p>
+    </p> -->
     <!-- [Read More](/research/project1/) -->
     <details open>
         <summary><b>Related works</b></summary>
@@ -56,7 +56,7 @@ The availability of extensive urban mobility data collected from diverse mobilit
     <h4>Analyzing the Impact of Autonomous Vehicles and Connected Environments</h4>
     <p>
         In this project, we focus on analyzing the impact of autonomous vehicles and connected environments on transportation system. We examine these new technologies from various perspectives. Also, we are developing new methodologies to control and operate these new systems on the real world. 
-    </p>
+    </p> -->
     <!-- [Read More](/research/project1/) -->
     <details open>
         <summary><b>Related works</b></summary>

@@ -26,8 +26,7 @@ header: no
         </ul>
     </details>
 </div>
----
--->
+--- -->
 
 <!-- <div style="float: right; margin-left: 20px; min-height: 500px; width: 400px; height: 300px;">
 <img src="/images/research/prj2.png" alt="Project 1 image" >
@@ -47,8 +46,7 @@ The availability of extensive urban mobility data collected from diverse mobilit
         </ul>
     </details>
 </div>
----
--->
+--- -->
 
 
 <!--<div style="float: left; margin-right: 20px; min-height: 500px; width: 400px; height: 300px;">
@@ -70,5 +68,4 @@ The availability of extensive urban mobility data collected from diverse mobilit
         </ul>
     </details>
 </div> 
----
--->
+--- -->

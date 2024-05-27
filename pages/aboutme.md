@@ -57,6 +57,8 @@ header: no
             <li><strong>2017 - 2018:</strong> CISC John L. Kellerman Fellowship, Canadian Institute of Steel Construction (University of Toronto) </li>
             <li><strong>2017 - 2018:</strong> NSERC Alexander Graham Bell (PGS-D) Scholarship, Natural Sciences and Engineering Research Council of Canada (University of Toronto) </li>
             <li><strong>2016 - 2017:</strong> Ontario Graduate Scholarship, Province of Ontario (University of Toronto) </li>
+            <li><strong>2013 - 2014:</strong> John Adjeleian Graduate Scholarship in Structural Engineering, Dept. of Civil and Env. Engineering (Carleton University) </li>
+            <li><strong>2013 - 2014:</strong> International Student Award , Graduate Student Asssociation (Carleton University) </li>
         </ul>
 
         <h4>Affiliation with Scientific and Professional Societies:</h4>

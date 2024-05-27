@@ -77,7 +77,7 @@ header: no
         <ul >
             <li><strong>2024 - Present:</strong> Faculty Advisor – Earthquake Engineering Research Institute Student Chapter </li>
             <li><strong>2024 - Present:</strong> Faculty Advisor – AISC Steel Bridge Design Team </li>
-            <li><strong>2023 - Present:</strong> Guest Attendant at AISC Task Committee 09: Seismic Design  </li>
+            <li><strong>2023 - Present:</strong> Guest Attendant - AISC Task Committee 09: Seismic Design  </li>
         </ul>
 
     </div>

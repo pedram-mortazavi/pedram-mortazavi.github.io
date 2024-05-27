@@ -14,8 +14,8 @@ header: no
 <div style="clear: right;">
     <h4>Probabilistic Approach for better training spatiotemporal data and multivariate time-series data.</h4>
     <p>
-        In this project, we focus on developing new methods for better training spatiotemporal data and multivariate time-series data by using a probabilistic approach. Especially, we are tackling conventional MSE/MAE-based training methods which are not suitable for spatiotemporal data and multivariate time-series data where we can find strong spatial (variable-wise) and temporal correlation.  -->
-    </p>
+        In this project, we focus on developing new methods for better training spatiotemporal data and multivariate time-series data by using a probabilistic approach. Especially, we are tackling conventional MSE/MAE-based training methods which are not suitable for spatiotemporal data and multivariate time-series data where we can find strong spatial (variable-wise) and temporal correlation.
+    </p>   -->
     <!-- [Read More](/research/project1/) -->
     <details open>
         <summary><b>Related works</b></summary>
@@ -25,7 +25,7 @@ header: no
             <li><a href="https://arxiv.org/abs/2301.06650">Enhancing Deep Traffic Forecasting Models with Dynamic Regression</a></li>
         </ul>
     </details>
-</div>
+</div>   -->
 --- 
 
 <!-- <div style="float: right; margin-left: 20px; min-height: 500px; width: 400px; height: 300px;">
@@ -45,7 +45,7 @@ The availability of extensive urban mobility data collected from diverse mobilit
             <li><a href="https://doi.org/10.1016/j.trc.2022.103668">Transformer-based map-matching model with limited labeled data using transfer-learning approach</a></li>
         </ul>
     </details>
-</div>
+</div>   -->
 --- 
 
 
@@ -67,5 +67,5 @@ The availability of extensive urban mobility data collected from diverse mobilit
             <li><a href="https://doi.org/10.1109/IVS.2017.7995799">Framework for simulation-based lane change control for autonomous vehicles</a></li>
         </ul>
     </details>
-</div>
+</div>   -->
 --- 

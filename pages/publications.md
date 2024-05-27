@@ -7,7 +7,7 @@ teaser: ""
 permalink: "/publications/"
 header: no
 ---
-Please refer to my [Google Scholar](https://scholar.google.com/citations?user=tyLWFk4AAAAJ) for up-to-date information.
+Please refer to my [Google Scholar](https://scholar.google.com/citations?user=Awn61doAAAAJ) for up-to-date information.
 
 <!-- ### --- Publications Under Review
 - **Choi, Seongjin** and Jinwoo Lee. "Optimal Parking Planning for Shared Autonomous Vehicles"
@@ -28,7 +28,7 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?user=ty
   - Submitted to Transportation Research Part C
   - As one of co-first authors and as a corresponding author -->
 
-### --- International Journal
+<!--### --- International Journal
 - **Choi, Seongjin**, and Jinwoo Lee. "Optimal planning of parking infrastructure and fleet size for Shared Autonomous Vehicles." *Transportation Research Part E: Logistics and Transportation Review*, 176 (2023): 103213. 
     - [https://doi.org/10.1016/j.tre.2023.103213](https://doi.org/10.1016/j.tre.2023.103213) **[JCR Q1; IF=10.6]**
 - **Choi, Seongjin**, Donghoun Lee, Sari Kim, and Sehyun Tak. "Framework for Connected and Automated Bus Rapid Transit with Sectionalized Speed Guidance based on Deep Reinforcement Learning: Field Test in Sejong City." *Transportation Research Part C: Emerging Technologies*, 148 (2023): 104049. 
@@ -73,5 +73,5 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?user=ty
 ### --- Korean Domestic Journal
 - **Choi, Seongjin**, Jiwon Kim, Hwapyeong Yu, Dongho Ka, and Hwasoo Yeo. "Deep-learning based urban vehicle trajectory prediction." *Journal of Korean Society of Transportation* 37.5 (2019): 422-429.
 - Kim, Yeeun, **Seongjin Choi**, and Hwasoo Yeo. "A study on the development of a car-following model for accident simulation caused by driver distraction." *Journal of Korean Society of Transportation* 37.1 (2019): 39-50.
-- Suh, Jonghae, **Seongjin Choi**, and Hwasoo Yeo. "A Study on Climbing Lane in Freeway Uphill Segment by Developing a Microscopic Traffic Simulation Model." *Journal of Korean Society of Transportation* 36.4 (2018): 263-273
+- Suh, Jonghae, **Seongjin Choi**, and Hwasoo Yeo. "A Study on Climbing Lane in Freeway Uphill Segment by Developing a Microscopic Traffic Simulation Model." *Journal of Korean Society of Transportation* 36.4 (2018): 263-273-->
 

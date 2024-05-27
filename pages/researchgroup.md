@@ -14,22 +14,16 @@ header: no
 - ### Graduate Students
   - **Sina Kavei** (2024. 09-) - Ph.D. Student
     - Seismic Performnance of Steel Plate Shear Walls
-  - **Mithell Kosieradzki** (2024. 05-) - Master student in Data Science (Capstone project)
-    - Probabilistic trajectory prediction
-  - **Sicong Jiang** - Ph.D. Student at McGill University, co-supervised with Professor Lijun Sun
-    - Autonomous driving, Distributional reinforcement learning
+
 
 - ### Undergraduate research assistant
-  - **Dev Patel** (2024. 05-) 
-    - Virtual Reality (VR)-based multi-agent driving simulator
-    - Digitizing MTO data
-  - **Noah Hebeisen** (2024. 05-)
-    - Digitizing MTO data
+  - **Currently Recruiting
 
 <!-- Sicong Jiang (2021. 09-) Ph.D. Student at McGill University (co-supervised with Prof. Lijun Sun) -->
 <!-- - Pouya Parsa (2024.09-) Master Student -->
 
 ## Collaborators
+<!-- 
 - [Hwasoo Yeo (KAIST)](https://www.aimobility.kaist.ac.kr/)
 - [Lijun Sun (McGill University)](https://lijunsun.github.io/)
 - [Jiwon Kim (University of Queensland)](https://researchers.uq.edu.au/researcher/10269)
@@ -37,7 +31,7 @@ header: no
 - [Jinwoo Lee (KAIST)](https://lee.kaist.ac.kr/home)
 - Sehyun Tak (KOTI)
 - Donghoun Lee (Sejong University)
-- [Soomin Woo (Konkuk University)](https://www.thesemlab.com/)
+- [Soomin Woo (Konkuk University)](https://www.thesemlab.com/) -->
 
 <!-- - Zhihao Zheng (McGill University)
 - Zhixiong Jin (Gustave-Eiffel University)

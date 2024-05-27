@@ -8,7 +8,7 @@ permalink: "/projects/"
 header: no
 ---
 
-<div style="float: left; margin-right: 20px; min-height: 400px; width: 400px; height: 300px;">
+<!-- <div style="float: left; margin-right: 20px; min-height: 400px; width: 400px; height: 300px;">
 <img src="/images/research/prj1.png" alt="Project 1 image" style="float: left; margin-right: 20px; width: 400px; height: 300px;">
 </div>
 <div style="clear: right;">
@@ -69,5 +69,5 @@ The availability of extensive urban mobility data collected from diverse mobilit
             <li><a href="https://doi.org/10.1109/IVS.2017.7995799">Framework for simulation-based lane change control for autonomous vehicles</a></li>
         </ul>
     </details>
-</div>
+</div> -->
 ---

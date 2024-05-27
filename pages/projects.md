@@ -14,8 +14,8 @@ header: no
 <div style="clear: right;">
     <h4>Probabilistic Approach for better training spatiotemporal data and multivariate time-series data.</h4>
     <p>
-        In this project, we focus on developing new methods for better training spatiotemporal data and multivariate time-series data by using a probabilistic approach. Especially, we are tackling conventional MSE/MAE-based training methods which are not suitable for spatiotemporal data and multivariate time-series data where we can find strong spatial (variable-wise) and temporal correlation.
-    </p> -->
+        In this project, we focus on developing new methods for better training spatiotemporal data and multivariate time-series data by using a probabilistic approach. Especially, we are tackling conventional MSE/MAE-based training methods which are not suitable for spatiotemporal data and multivariate time-series data where we can find strong spatial (variable-wise) and temporal correlation.  -->
+    </p>
     <!-- [Read More](/research/project1/) -->
     <details open>
         <summary><b>Related works</b></summary>

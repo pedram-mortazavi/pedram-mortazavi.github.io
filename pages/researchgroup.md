@@ -17,7 +17,7 @@ header: no
 
 
 - ### Undergraduate research assistant
-  - **Currently Recruiting
+  - **Currently Recruiting**
 
 <!-- Sicong Jiang (2021. 09-) Ph.D. Student at McGill University (co-supervised with Prof. Lijun Sun) -->
 <!-- - Pouya Parsa (2024.09-) Master Student -->

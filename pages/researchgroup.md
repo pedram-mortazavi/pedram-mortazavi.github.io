@@ -40,9 +40,9 @@ header: no
 ## Join Our Team!
 <div>
     <p style="margin-bottom:5px;">
-        I am looking for students who are excited about machine learning for urban transportation and mobility data. If you're interested, please send me an email at <a href="mailto:chois@umn.edu">chois[at]umn.edu</a>. Please include a CV, a research statement, and an academic transcript.
+        I am looking for students who are excited about structural resilience and Sustainability, Steel Structures, Large-Scale Testing, Advanced Simulation Methods. If you're interested, please send me an email at <a href="mailto:pmortaza@umn.edu">pmortaza[at]umn.edu</a>. Please include a CV, a research statement, and an academic transcript.
         <br>
-        Please use “Prospective student [Your name]” as your email subject. Due to the large volume of emails, I apologize for not replying to individual inquiries I have received.
+        Please use “Prospective student [Your name]” as your email subject. Due to the large volume of emails, please note that I cannot acknowledge/reply to all inquiries.
     </p>
     <div class="text-right">
         <a href="/news/230607">Read More</a>

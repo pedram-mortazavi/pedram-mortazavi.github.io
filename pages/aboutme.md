@@ -63,8 +63,14 @@ header: no
 
         <h4>Affiliation with Scientific and Professional Societies:</h4>
         <ul >
-            <li><strong>2023.06 - Present:</strong> Associate Editor of The Journal of the Korean Society of Transportation (JKST)</li>
-            <li><strong>2023.07 - 2024.02:</strong> Guest Editor of the special issue titled "Advanced Data Intelligence Theory and Practice in Transport 2023" in Journal of Advanced Transportation </li>
+            <li> Professional Engineers Ontario (PEO) – Professional Engineer </li>
+            <li> Canadian Association for Earthquake Engineering (CAEE) – Member </li>
+            <li> American Institute of Steel Construction (AISC) – Member  </li>
+            <li> Earthquake Engineering Research Institute (EERI) – Member </li> 
+            <li> Structural Stability Research Council (SSRC) – Member at Large </li>
+            <li> American Society of Civil Engineers (ASCE) – Member </li>
+            <li> Canadian Institute of Steel Construction (CISC) – Member </li>
+            <li> Canadian Society for Civil Engineering (CSCE) – Member </li>            
         </ul>
 
         <h4>Academic Service:</h4>

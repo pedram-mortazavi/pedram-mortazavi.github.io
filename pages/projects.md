@@ -17,7 +17,7 @@ header: no
         In this project, we focus on developing new methods for better training spatiotemporal data and multivariate time-series data by using a probabilistic approach. Especially, we are tackling conventional MSE/MAE-based training methods which are not suitable for spatiotemporal data and multivariate time-series data where we can find strong spatial (variable-wise) and temporal correlation.
     </p>   -->
     <!-- [Read More](/research/project1/) -->
-    <details open>
+   <!-- <details open>
         <summary><b>Related works</b></summary>
         <ul>
             <li><a href="https://arxiv.org/abs/2305.17028">Better Batch for Deep Probabilistic Time Series Forecasting</a></li>
@@ -37,7 +37,7 @@ header: no
 The availability of extensive urban mobility data collected from diverse mobility sensors, such as GPS, WiFi, and smart cards, presents remarkable prospects for comprehending and enhancing urban mobility. This project develops artificial intelligence and machine learning models capable of complex spatiotemporal mobility patterns from large-scale urban mobility data. These models aim to analyze, forecast, and simulate the movement of individuals and vehicles, enabling more intelligent traffic management and improved mobility services. These models can be employed in diverse applications, including predicting traffic flow across an entire city, anticipating turning movements at intersections, and offering personalized route recommendations.
     </p> -->
     <!-- [Read More](/research/project1/) -->
-    <details open>
+    <!-- <details open>
         <summary><b>Related works</b></summary>
         <ul>
             <li><a href="https://doi.org/10.1016/j.trc.2021.103091">TrajGAIL: Generating urban vehicle trajectories using generative adversarial imitation learning</a></li>
@@ -58,7 +58,7 @@ The availability of extensive urban mobility data collected from diverse mobilit
         In this project, we focus on analyzing the impact of autonomous vehicles and connected environments on transportation system. We examine these new technologies from various perspectives. Also, we are developing new methodologies to control and operate these new systems on the real world. 
     </p> -->
     <!-- [Read More](/research/project1/) -->
-    <details open>
+    <!-- <details open>
         <summary><b>Related works</b></summary>
         <ul>
             <li><a href="https://doi.org/10.1016/j.trc.2023.104049">Framework for Connected and Automated Bus Rapid Transit with Sectionalized Speed Guidance based on deep reinforcement learning: Field test in Sejong City</a></li>

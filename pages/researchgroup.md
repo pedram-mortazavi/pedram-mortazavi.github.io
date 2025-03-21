@@ -12,8 +12,9 @@ header: no
 
 ## Current Students 
 - ### Graduate Students
-  - **Sina Kavei** (2024. 09-) - Ph.D. Student
-    - Seismic Performnance of Steel Plate Shear Walls
+  - **Zahra Ahmadi** (2025. 01-Present) - Ph.D. Student
+    - Seismic Performnance of BRBFs
+  - **Hans Lagerquist** (2025. 09 -Present) - MASc Student 
 
 
 - ### Undergraduate research assistant
